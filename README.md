@@ -1,4 +1,4 @@
-## SCRIPT NEIGE :cloud_snow: 
+## SCRIPT NEIGE 🌨️ 
 
 - Flocon de neige visible
 - Commande "/neige" pour activer/désactiver la neige
